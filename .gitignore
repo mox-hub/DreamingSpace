@@ -1,5 +1,6 @@
 node_modules/
-
+#vscode auto save file
+.history/
 logs
 *.log
 npm-debug.log*
